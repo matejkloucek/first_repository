@@ -9,3 +9,5 @@ print(c)
 # sample comment
 
 d = a * b
+
+e = "Second branch string"
