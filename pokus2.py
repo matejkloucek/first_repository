@@ -7,3 +7,5 @@ c = "This is a crazy idea brrrrap"
 print(c)
 
 # sample comment
+
+d = a * b
