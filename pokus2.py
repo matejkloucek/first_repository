@@ -1,4 +1,4 @@
-print('proc to doprdele nefunguje')
+print('sample text')
 a = 2
 b = 3
 print(a+b)
